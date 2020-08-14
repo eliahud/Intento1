@@ -1,11 +1,11 @@
-#Titulo
+# Titulo
 
-##Intro
+## Intro
 
-###abstract
+### abstract
 
-###equipo
+### equipo
 
 ## el proyecto
 
-![logo](https://github.com/eliahud/Intento1/blob/master/Escudobuappositivo2.png)
+![logo] (https://github.com/eliahud/Intento1/blob/master/Escudobuappositivo2.png)
